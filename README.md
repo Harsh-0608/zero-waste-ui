@@ -1,4 +1,4 @@
-# zero-waste-ui
+# zero-waste-front end project
 # ZeroWaste – AI Powered Geo-Intelligent Food Donation & Rescue System
 
 ## 🌐 Selected Domain
